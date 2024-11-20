@@ -1,4 +1,4 @@
-###step-by-step breakdown of how to complete this project, implement the `predict_message` function, and build a spam classifier with TensorFlow. The focus will be on using a neural network model and ensuring proper predictions.
+## step-by-step breakdown of how to complete this project, implement the `predict_message` function, and build a spam classifier with TensorFlow. The focus will be on using a neural network model and ensuring proper predictions.
 
 ```python
 # Install libraries
